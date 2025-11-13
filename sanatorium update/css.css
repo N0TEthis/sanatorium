@@ -149,7 +149,14 @@
     height: 300px;
     width:100%;
     
-}
+        opacity: 1; 
+        transition: opacity 0.5s ease-in-out; 
+    }
+    
+    .jitel:hover {
+        opacity: 0.5; 
+    }
+
 .rep{
        color: #ffffff;
 }
