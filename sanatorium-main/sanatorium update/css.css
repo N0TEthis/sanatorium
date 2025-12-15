@@ -52,7 +52,7 @@
   justify-content: center;
   width: 50%;
   margin: 20px ;
-  
+
 }
 .jj{
     height: 150px ;
@@ -167,7 +167,8 @@
 }
 
 .fe{
-     margin: auto;
+      max-height: 500px; 
+   overflow-y: auto; 
 }
 
 

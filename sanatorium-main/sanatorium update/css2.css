@@ -8,7 +8,7 @@
 
 
 .bb {
-    color:rgba(255, 255, 255, 0.884);
+    color:rgb(255, 221, 196);
     text-shadow: 
         1px 1px 0px #e63946, 
         2px 2px 0px #f77f00, 
@@ -19,10 +19,10 @@
             
 }
 .cc{
-    color: rgba(255, 255, 255, 0.788);
+    color: rgba(255, 221, 196, 0.788);
     display: flex;
      justify-content: center;
-     background-color: #566d7c;
+     background-color: #457b9d;
      position: relative; top: -10px;
      border-radius: 50%;
      
@@ -43,10 +43,10 @@
 .hh{
   display: flex;
     flex-direction: column;
-    background-color: #2b2c26;
+    background-color: #3a0807;
 }
 .ii{
-    background-color: #919484a1;
+    background-color:   #db9340b4;
     display: flex;
   justify-content: center;
   width: 50%;
@@ -61,14 +61,13 @@
 .kk{
   display: flex;
   justify-content: center;
-    color: #9e9e91;
-    text-shadow: 2px 2px 0px #fffffe33;
-    background-color: #201f18b9;
-    position: relative;
-
+    color:  #db9340b4;
+    text-shadow: 2px 2px 0px #97734f86	;
+    background-color: #270e0eb9;
+    position: relative; 
 }
 .ll {
-    color: aliceblue;
+    color: rgb(255, 240, 240);
     font-size:20px;
     margin: 20px;;
     
@@ -112,13 +111,13 @@
 .ss{
     display: flex;
   justify-content: center;
-  color:#161318;
+  color: #db9340;
     text-shadow: 
-        1px 1px 0px #6C6960, 
-        2px 2px 0px #8a8570, 
-        3px 3px 0px #a8a597, 
-        4px 4px 0px #a09b86, 
-        5px 5px 0px #6C6960;
+        1px 1px 0px #2a2a2a, 
+        2px 2px 0px #2a2a2ad0, 
+        3px 3px 0px #2a2a2a98, 
+        4px 4px 0px #2a2a2a67, 
+        5px 5px 0px #2a2a2a1a;
         font-size:35px;
 }
 .tt{
@@ -131,7 +130,7 @@
 }
 .uu{
     height: 100px;
-    width:auto ;
+    width: auto;
 }
 .ww{
     display: flex;
@@ -147,11 +146,11 @@
   justify-content: center;
 }
 .ce{
-    color: #25221f;
-    text-shadow: 3px 3px 0px #4b413291;
+    color: #db9340;
+    text-shadow: 3px 3px 0px #00000091;
     display: flex;
      justify-content: center;
-     background-color: #9e9e918a;
+     background-color: #290808;
      position: relative;
     
      
@@ -162,4 +161,3 @@
      max-height: 500px; 
    overflow-y: auto; 
 }
-
