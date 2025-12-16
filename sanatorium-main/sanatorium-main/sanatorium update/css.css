@@ -1,0 +1,174 @@
+.aa{
+    display: flex;
+  justify-content: center;
+  height:100px;
+  width: auto;
+ 
+}
+
+
+.bb {
+    color:rgb(255, 221, 196);
+    text-shadow: 
+        1px 1px 0px #e63946, 
+        2px 2px 0px #f77f00, 
+        3px 3px 0px #fcbf49, 
+        4px 4px 0px #a8dadc, 
+        5px 5px 0px #457b9d;
+        
+            
+}
+.cc{
+    color: rgba(255, 221, 196, 0.788);
+    display: flex;
+     justify-content: center;
+     background-color: #457b9d;
+     position: relative; top: -10px;
+     border-radius: 50%;
+     
+}
+.dd{
+    background-color: black;
+    height: 15%;
+    width: 99%;
+}
+.ff{
+    display: flex;
+  justify-content: space-between;
+    height: auto;
+}
+.gg{
+    height: 100px;
+}
+.hh{
+    display: flex;
+    flex-direction: column;
+    background-color: #3f535f;
+   
+}
+.ii{
+    background-color: #9d6d45a1;
+    display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: 20px ;
+
+}
+.jj{
+    height: 150px ;
+    width: 150px ; 
+    margin: 20px ;
+   
+}
+.kk{
+    display: flex;
+  justify-content: center;
+    color: #121020;
+    text-shadow: 2px 2px 0px #162c3ab4;
+    background-color: #31404bb9;
+    position: relative; 
+   
+}
+.ll {
+    color: aliceblue;
+    font-size:20px;
+    margin: 20px;;
+    
+}
+.mm{
+     
+    display: flex;
+  justify-content: center;
+    height: 100px ;
+    width: auto ; 
+    margin: 20px ;
+    
+}
+.nn{
+    
+  display: flex;
+  flex-direction: column;
+}
+.oo{
+    height: 100px ;
+    width: 100px ; 
+    margin: 20px
+}
+.pp{
+    display: flex;
+  justify-content: space-around;
+  padding: auto;
+  overflow-wrap: break-word;
+  width: auto;
+}
+.qq{ 
+    
+ 
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size:15px;
+}
+.rr{
+    font-size:15px;
+}
+.ss{
+    display: flex;
+  justify-content: center;
+  color:#161318;
+    text-shadow: 
+        1px 1px 0px #6C6960, 
+        2px 2px 0px #8a8570, 
+        3px 3px 0px #a8a597, 
+        4px 4px 0px #a09b86, 
+        5px 5px 0px #6C6960;
+        font-size:35px;
+}
+.tt{
+    height:auto;
+    width: auto;
+}
+.zz{
+    height: auto;
+    width: auto;
+}
+.uu{
+    height: 100px;
+    width: auto;
+}
+.ww{
+    display: flex;
+  flex-direction: column;
+    color: #ffffff;
+}
+.sd{
+    height: 200px;
+    width: auto;
+}
+.end{
+    display: flex;
+  justify-content: center;
+}
+
+
+
+.rep{
+       color: #ffffff;
+}
+
+.ce{
+    color: #a0d2f1;
+    text-shadow: 3px 3px 0px #162c3a4f;
+    display: flex;
+     justify-content: center;
+     background-color: #457b9d;
+     position: relative;
+    
+     
+}
+
+.fe{
+      max-height: 500px; 
+   overflow-y: auto; 
+}
+
+

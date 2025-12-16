@@ -1,0 +1,38 @@
+.aa{
+ display: flex;
+ justify-content: center;
+ background-color: rgb(34, 16, 44);
+ color:blanchedalmond;
+    text-shadow: 
+        1px 1px 0px #e63946, 
+        2px 2px 0px #f77f00, 
+        3px 3px 0px #fcbf49, 
+        4px 4px 0px #a8dadc, 
+        5px 5px 0px #457b9d;
+        height: 40PX;
+}
+.bb{
+    display: flex;
+ justify-content: center;
+}
+.cc{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+
+    height: 150px ;
+    width: 150px ; 
+    margin: 20px ;
+   
+}
+p{
+    color:blanchedalmond;
+    text-shadow: 
+        
+        1px 2px 0px #a8dadca6, 
+        3px 4px 0px #457b9d85;
+}
+body{
+    background-color: black;
+}
